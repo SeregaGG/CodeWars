@@ -9,3 +9,4 @@ def perimeter(n):
         result_sum += current_num
 
     return result_sum * 4
+print('test')
